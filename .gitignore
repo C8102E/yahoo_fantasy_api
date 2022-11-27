@@ -12,3 +12,6 @@ docs/_build
 .vscode/
 .envrc
 build/
+yahoo_fantasy_api/scripts/json
+json
+yahoo_fantasy_api/scripts/.env
